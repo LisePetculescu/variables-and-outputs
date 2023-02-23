@@ -51,7 +51,7 @@ function displayNumber() {
   } else {
     message2 = "The number is below 10";
   }
-  
+
   document.querySelector("#message2").textContent = message2;
 }
 
